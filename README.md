@@ -8,3 +8,5 @@ MY SMALL PROJECTS IN DEEP - LEARNING
 4) The above model is now loaded in another file and there is proper interface of using gradio.
 5) I used the kaggle small dataset for phone addiction classification.
 6) I got the placement dataset but my model performed worse
+7) It did not work properly the linear regression.
+8) 
