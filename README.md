@@ -9,4 +9,5 @@ MY SMALL PROJECTS IN DEEP - LEARNING
 5) I used the kaggle small dataset for phone addiction classification.
 6) I got the placement dataset but my model performed worse
 7) It did not work properly the linear regression.
-8) 
+8) I tried GAN but it did not work so nice but it produced something like random things
+9) 
